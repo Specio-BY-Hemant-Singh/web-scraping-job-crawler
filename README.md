@@ -3,7 +3,7 @@
 This project scrapes data science internship job openings from various companies' career pages and saves the data in an Excel file.
 
 ## Features
-- Searches for companies in Gurugram offering internships.
+- Searches for companies in a specific loaction like Gurugram offering internships.
 - Scrapes job listings directly from company career pages.
 - Saves the data to an Excel sheet.
 
